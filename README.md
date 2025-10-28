@@ -51,3 +51,21 @@ Clone the repository and follow the setup steps in each folder:
 # Clone the main repository
 git clone https://github.com/ArunKumar-7121/favorite-movies-app.git
 cd favorite-movies
+
+
+## Screenshots
+
+### Splash Screen
+![Splash Screen](./screenshots/splashscreen.png)
+
+### Home Screen
+![Home Screen](./screenshots/homescreen.png)
+
+### Add Movie
+![Add Movie Modal](./screenshots/addModel.png)
+
+### Edit Movie
+![Edit Movie Modal](./screenshots/editModel.png)
+
+### Delete Movie
+![Delete Movie Modal](./screenshots/deleteModel.png)
