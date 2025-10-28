@@ -19,8 +19,8 @@ It provides RESTful APIs to manage a list of favorite movies and TV shows with f
 Follow these steps to set up and run the project locally.
 
 ### Clone the Repository
-    git clone https://github.com/your-username/favorite-movies-backend.git
-    cd favorite-movies-backend
+    git clone https://github.com/ArunKumar-7121/favorite-movies-app.git
+    cd backend
 
 ### Install Dependencies
     npm install

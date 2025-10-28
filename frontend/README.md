@@ -32,8 +32,8 @@ This is the frontend service for the **Favorite Movies & TV Shows Web Applicatio
 ### Environment Setup
 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/favorite-movies-frontend.git
-cd favorite-movies-frontend
+git clone https://github.com/ArunKumar-7121/favorite-movies-app.git
+cd frontend
 ```
 
 2. Install Dependencies
