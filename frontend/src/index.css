@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply rounded-lg border border-transparent px-5 py-2.5 text-base font-medium
+           bg-[#1a1a1a] cursor-pointer transition-colors duration-250
+           hover:border-primary focus:outline-none focus-visible:outline-4 focus-visible:outline-offset-0
+           focus-visible:outline-blue-500;
+  }
+}
+
+#root {
+  @apply w-full min-h-screen;
+}
