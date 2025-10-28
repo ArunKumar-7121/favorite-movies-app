@@ -51,7 +51,7 @@ Clone the repository and follow the setup steps in each folder:
 # Clone the main repository
 git clone https://github.com/ArunKumar-7121/favorite-movies-app.git
 cd favorite-movies
-
+```bash
 
 ## Screenshots
 
