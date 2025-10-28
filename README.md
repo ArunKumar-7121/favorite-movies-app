@@ -11,16 +11,6 @@ It includes separate frontend and backend modules with their own setup guides an
 
 ---
 
-## Folder Structure
-
-favorite-movies/
-│
-├── backend/ # Node.js + Express + Prisma + MySQL + Zod (API)
-├── frontend/ # React + Vite + TypeScript + TailwindCSS (UI)
-└── README.md # Root summary documentation
-
-
----
 
 ## Tech Stack
 
